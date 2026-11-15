@@ -16,19 +16,21 @@
 
 ## 👋 Sobre mí
 
-Soy desarrollador de software full stack en Santa Marta, Colombia. Construyo aplicaciones web y móviles, con APIs en **FastAPI** y frontends en **Next.js**, y integro modelos de lenguaje con **LangChain**.
+Soy Daniel, desarrollador full stack en Santa Marta, Colombia. Construyo aplicaciones web y móviles: APIs con **FastAPI**, interfaces con **Next.js** y apps con **Expo**.
 
-Mi sitio personal y mi blog están en **[danielvillera.dev](https://danielvillera.dev)**.
+Lo que más me gusta es llevar modelos de datos y de lenguaje a algo que la gente pueda usar. **BoxBox** predice los podios de Fórmula 1 y se reentrena después de cada Gran Premio. **Otro Lunes** arma planes de alimentación y rutinas de entrenamiento con IA a partir de siete datos.
+
+Mi sitio y mi blog están en **[danielvillera.dev](https://danielvillera.dev)**.
 
 ## 🚀 Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/davillera/signa"><img src="./assets/cards/signa.svg" width="100%" alt="signa" /></a>
+      <a href="https://github.com/davillera/boxbox"><img src="./assets/cards/boxbox.svg" width="100%" alt="boxbox" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/davillera/dietgpt-frontend"><img src="./assets/cards/dietgpt-frontend.svg" width="100%" alt="dietgpt-frontend" /></a>
+      <a href="https://github.com/davillera/otro-lunes"><img src="./assets/cards/otro-lunes.svg" width="100%" alt="otro-lunes" /></a>
     </td>
   </tr>
   <tr>
@@ -36,12 +38,14 @@ Mi sitio personal y mi blog están en **[danielvillera.dev](https://danielviller
       <a href="https://github.com/davillera/ecotracker"><img src="./assets/cards/ecotracker.svg" width="100%" alt="ecotracker" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/davillera/hackathon-gdg"><img src="./assets/cards/hackathon-gdg.svg" width="100%" alt="hackathon-gdg" /></a>
+      <a href="https://github.com/davillera/signa"><img src="./assets/cards/signa.svg" width="100%" alt="signa" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/davillera/dietgpt-frontend"><img src="./assets/cards/dietgpt-frontend.svg" width="100%" alt="dietgpt-frontend" /></a>
+    </td>  </tr>
 </table>
-
-Más en [mis repositorios](https://github.com/davillera?tab=repositories): `davia-stock`, `chat-websocket-fastapi`, `diet-gpt-backend`, `empanadas_y_prompts_ieee_colcaribe`.
 
 ## 🛠️ Stack
 
@@ -51,7 +55,8 @@ Más en [mis repositorios](https://github.com/davillera?tab=repositories): `davi
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+<img src="./assets/badges/angular.svg" height="28" alt="Angular" />
 
 <br />
 
@@ -60,25 +65,14 @@ Más en [mis repositorios](https://github.com/davillera?tab=repositories): `davi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="./assets/badges/powerbi.svg" height="28" alt="Power BI" />
 
 <br />
 
 <b>IA & nube</b><br />
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=davillera&show_icons=true&hide_border=true&theme=transparent&title_color=6366f1&icon_color=0ea5e9&text_color=8b949e" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davillera&layout=compact&hide_border=true&theme=transparent&title_color=6366f1&text_color=8b949e" height="165" alt="Top languages" />
-
-<img src="https://ghchart.rshah.org/6366f1/davillera" alt="Contribuciones" />
+<img src="./assets/badges/aws.svg" height="28" alt="AWS" />
 
 </div>
 

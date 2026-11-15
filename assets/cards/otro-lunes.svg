@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect x="1" y="1" width="798" height="398" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="60" cy="72" r="5" fill="#22c55e"/>
+  <text x="74" y="77" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2" fill="#8b949e">PROYECTO 02 · WEB + IA</text>
+  <text x="56" y="130" font-family="'Cascadia Mono', Consolas, monospace" font-size="24" fill="#8b949e">davillera/</text>
+  <text x="56" y="188" font-family="'Cascadia Mono', Consolas, monospace" font-size="54" font-weight="700" fill="#f0f6fc">otro-lunes</text>
+  <text x="56" y="244" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#c9d1d9">Planes de comidas y rutinas de entrenamiento</text>
+  <text x="56" y="276" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#c9d1d9">generados con IA a partir de siete datos.</text>
+  <rect x="56" y="314" width="89" height="34" rx="6" fill="none" stroke="#30363d"/><text x="100" y="337" font-family="'Cascadia Mono', Consolas, monospace" font-size="15" fill="#c9d1d9" text-anchor="middle">Next.js</text><rect x="155" y="314" width="80" height="34" rx="6" fill="none" stroke="#30363d"/><text x="195" y="337" font-family="'Cascadia Mono', Consolas, monospace" font-size="15" fill="#c9d1d9" text-anchor="middle">Gemini</text><rect x="245" y="314" width="80" height="34" rx="6" fill="none" stroke="#30363d"/><text x="285" y="337" font-family="'Cascadia Mono', Consolas, monospace" font-size="15" fill="#c9d1d9" text-anchor="middle">OpenAI</text>
+  <text x="744" y="370" font-family="'Cascadia Mono', Consolas, monospace" font-size="14" fill="#6e7681" text-anchor="end">github.com/davillera/otro-lunes</text>
+</svg>
