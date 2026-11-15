@@ -37,14 +37,7 @@ Mi sitio y mi blog están en **[danielvillera.dev](https://danielvillera.dev)**.
     <td width="50%" align="center">
       <a href="https://github.com/davillera/ecotracker"><img src="./assets/cards/ecotracker.svg" width="100%" alt="ecotracker" /></a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/davillera/signa"><img src="./assets/cards/signa.svg" width="100%" alt="signa" /></a>
-    </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/davillera/dietgpt-frontend"><img src="./assets/cards/dietgpt-frontend.svg" width="100%" alt="dietgpt-frontend" /></a>
-    </td>  </tr>
 </table>
 
 ## 🛠️ Stack
@@ -69,8 +62,16 @@ Mi sitio y mi blog están en **[danielvillera.dev](https://danielvillera.dev)**.
 
 <br />
 
-<b>IA & nube</b><br />
+<b>IA & agentes</b><br />
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<img src="./assets/badges/openai.svg" height="28" alt="OpenAI" />
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
+<br />
+
+<b>Nube</b><br />
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 <img src="./assets/badges/aws.svg" height="28" alt="AWS" />
 
