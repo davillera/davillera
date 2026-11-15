@@ -12,37 +12,31 @@
 
 </div>
 
+<br />
+
 ## 👋 Sobre mí
 
 Soy desarrollador de software full stack en Santa Marta, Colombia. Construyo aplicaciones web y móviles, con APIs en **FastAPI** y frontends en **Next.js**, y integro modelos de lenguaje con **LangChain**.
 
 Mi sitio personal y mi blog están en **[danielvillera.dev](https://danielvillera.dev)**.
 
-## 🚀 Proyectos
+## 🚀 Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/davillera/signa">
-        <img src="https://opengraph.githubassets.com/1/davillera/signa" alt="signa" />
-      </a>
+      <a href="https://github.com/davillera/signa"><img src="./assets/cards/signa.svg" width="100%" alt="signa" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/davillera/dietgpt-frontend">
-        <img src="https://opengraph.githubassets.com/1/davillera/dietgpt-frontend" alt="dietgpt-frontend" />
-      </a>
+      <a href="https://github.com/davillera/dietgpt-frontend"><img src="./assets/cards/dietgpt-frontend.svg" width="100%" alt="dietgpt-frontend" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/davillera/ecotracker">
-        <img src="https://opengraph.githubassets.com/1/davillera/ecotracker" alt="ecotracker" />
-      </a>
+      <a href="https://github.com/davillera/ecotracker"><img src="./assets/cards/ecotracker.svg" width="100%" alt="ecotracker" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/davillera/hackathon-gdg">
-        <img src="https://opengraph.githubassets.com/1/davillera/hackathon-gdg" alt="hackathon-gdg" />
-      </a>
+      <a href="https://github.com/davillera/hackathon-gdg"><img src="./assets/cards/hackathon-gdg.svg" width="100%" alt="hackathon-gdg" /></a>
     </td>
   </tr>
 </table>
@@ -51,10 +45,31 @@ Más en [mis repositorios](https://github.com/davillera?tab=repositories): `davi
 
 ## 🛠️ Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,ts,py,flutter,postgres,gcp,aws&perline=8" alt="Stack" />
-  <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-</p>
+<div align="center">
+
+<b>Frontend</b><br />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<br />
+
+<b>Backend & datos</b><br />
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<br />
+
+<b>IA & nube</b><br />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ## 📊 Actividad en GitHub
 
